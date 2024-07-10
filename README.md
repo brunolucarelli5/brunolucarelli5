@@ -7,6 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolucarelli5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
+<div align="left">
+  <h3>Visit My Website</h3>
+  <a href="http://brunolucarelli.tech" target="_blank">brunolucarelli.tech</a>
+</div>
+
+<br>
+
 ###
 
 <div align="left">
@@ -50,10 +57,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/brunolucarelli5/brunolucarelli5/output/snake.svg" alt="Snake animation" />
-
-###
