@@ -1,12 +1,5 @@
 <h2 align="left">Hi 👋! My name is Bruno Lucarelli and I'm a systems engineering student from Argentina.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunolucarelli5&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolucarelli5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="200" alt="languages graph"  />
-</div>
-
 <div align="left">
   <h3>Visit My Website</h3>
   <a href="http://brunolucarelli.tech" target="_blank">brunolucarelli.tech</a>
