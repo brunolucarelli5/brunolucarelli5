@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bruno Lucarelli and I'm a systems engineering student from Argentina.</h2>
+<h2 align="left">Hi 👋! My name is Bruno Lucarelli and I'm a Fullstack dev and systems engineering student from Argentina.</h2>
 
 <div align="left">
   <h3>Visit My Website</h3>
